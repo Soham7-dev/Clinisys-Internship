@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\bin\Debug\net6.0\ArrayOne.exe
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\bin\Debug\net6.0\ArrayOne.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\bin\Debug\net6.0\ArrayOne.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\bin\Debug\net6.0\ArrayOne.dll
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\bin\Debug\net6.0\ArrayOne.pdb
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\ArrayOne.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\ArrayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\ArrayOne.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\ArrayOne.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\ArrayOne.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\ArrayOne.dll
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\refint\ArrayOne.dll
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\ArrayOne.pdb
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\ArrayOne.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\ArrayOne\obj\Debug\net6.0\ref\ArrayOne.dll

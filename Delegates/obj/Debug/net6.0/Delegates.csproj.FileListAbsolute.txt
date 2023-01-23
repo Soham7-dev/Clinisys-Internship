@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\bin\Debug\net6.0\Delegates.exe
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\Delegates\obj\Debug\net6.0\ref\Delegates.dll

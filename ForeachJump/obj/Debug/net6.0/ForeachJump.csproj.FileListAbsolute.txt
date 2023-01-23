@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\bin\Debug\net6.0\ForeachJump.exe
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\bin\Debug\net6.0\ForeachJump.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\bin\Debug\net6.0\ForeachJump.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\bin\Debug\net6.0\ForeachJump.dll
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\bin\Debug\net6.0\ForeachJump.pdb
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\ForeachJump.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\ForeachJump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\ForeachJump.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\ForeachJump.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\ForeachJump.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\ForeachJump.dll
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\refint\ForeachJump.dll
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\ForeachJump.pdb
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\ForeachJump.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\ForeachJump\obj\Debug\net6.0\ref\ForeachJump.dll

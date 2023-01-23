@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\bin\Debug\net6.0\PartialClass.exe
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\bin\Debug\net6.0\PartialClass.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\bin\Debug\net6.0\PartialClass.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\bin\Debug\net6.0\PartialClass.dll
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\bin\Debug\net6.0\PartialClass.pdb
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\PartialClass.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\PartialClass.dll
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\refint\PartialClass.dll
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\PartialClass.pdb
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\PartialClass.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\PartialClass\obj\Debug\net6.0\ref\PartialClass.dll

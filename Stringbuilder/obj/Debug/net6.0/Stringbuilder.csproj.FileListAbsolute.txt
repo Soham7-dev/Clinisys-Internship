@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\bin\Debug\net6.0\Stringbuilder.exe
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\bin\Debug\net6.0\Stringbuilder.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\bin\Debug\net6.0\Stringbuilder.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\bin\Debug\net6.0\Stringbuilder.dll
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\bin\Debug\net6.0\Stringbuilder.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\Stringbuilder.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\Stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\Stringbuilder.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\Stringbuilder.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\Stringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\Stringbuilder.dll
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\refint\Stringbuilder.dll
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\Stringbuilder.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\Stringbuilder.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\Stringbuilder\obj\Debug\net6.0\ref\Stringbuilder.dll

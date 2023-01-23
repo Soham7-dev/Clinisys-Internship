@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\bin\Debug\net6.0\ArrayTwo.exe
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\bin\Debug\net6.0\ArrayTwo.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\bin\Debug\net6.0\ArrayTwo.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\bin\Debug\net6.0\ArrayTwo.dll
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\bin\Debug\net6.0\ArrayTwo.pdb
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\ArrayTwo.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\ArrayTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\ArrayTwo.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\ArrayTwo.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\ArrayTwo.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\ArrayTwo.dll
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\refint\ArrayTwo.dll
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\ArrayTwo.pdb
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\ArrayTwo.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\ArrayTwo\obj\Debug\net6.0\ref\ArrayTwo.dll

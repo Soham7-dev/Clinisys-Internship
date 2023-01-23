@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\bin\Debug\net6.0\JaggedArray.exe
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\bin\Debug\net6.0\JaggedArray.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\bin\Debug\net6.0\JaggedArray.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\bin\Debug\net6.0\JaggedArray.dll
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\bin\Debug\net6.0\JaggedArray.pdb
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\JaggedArray.dll
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\refint\JaggedArray.dll
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\JaggedArray.pdb
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\JaggedArray.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\JaggedArray\obj\Debug\net6.0\ref\JaggedArray.dll

@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\Override\bin\Debug\net6.0\Override.exe
+C:\Users\dass\Desktop\CSharpPrograms\Override\bin\Debug\net6.0\Override.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\Override\bin\Debug\net6.0\Override.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\Override\bin\Debug\net6.0\Override.dll
+C:\Users\dass\Desktop\CSharpPrograms\Override\bin\Debug\net6.0\Override.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\Override.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\Override.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\Override.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\Override.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\Override.dll
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\refint\Override.dll
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\Override.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\Override.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\Override\obj\Debug\net6.0\ref\Override.dll
