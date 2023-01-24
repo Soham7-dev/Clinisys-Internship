@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll
