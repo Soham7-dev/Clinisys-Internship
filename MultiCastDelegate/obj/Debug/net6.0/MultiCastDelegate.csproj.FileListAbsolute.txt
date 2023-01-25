@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\bin\Debug\net6.0\MultiCastDelegate.exe
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\bin\Debug\net6.0\MultiCastDelegate.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\bin\Debug\net6.0\MultiCastDelegate.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\bin\Debug\net6.0\MultiCastDelegate.dll
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\bin\Debug\net6.0\MultiCastDelegate.pdb
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\MultiCastDelegate.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\MultiCastDelegate.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\MultiCastDelegate.dll
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\refint\MultiCastDelegate.dll
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\MultiCastDelegate.pdb
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\MultiCastDelegate.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\MultiCastDelegate\obj\Debug\net6.0\ref\MultiCastDelegate.dll
