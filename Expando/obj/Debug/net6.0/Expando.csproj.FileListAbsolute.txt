@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\Expando\bin\Debug\net6.0\Expando.exe
+C:\Users\dass\Desktop\CSharpPrograms\Expando\bin\Debug\net6.0\Expando.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\Expando\bin\Debug\net6.0\Expando.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\Expando\bin\Debug\net6.0\Expando.dll
+C:\Users\dass\Desktop\CSharpPrograms\Expando\bin\Debug\net6.0\Expando.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\Expando.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\Expando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\Expando.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\Expando.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\Expando.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\Expando.dll
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\refint\Expando.dll
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\Expando.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\Expando.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\Expando\obj\Debug\net6.0\ref\Expando.dll
