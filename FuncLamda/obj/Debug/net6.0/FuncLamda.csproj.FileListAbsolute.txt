@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\bin\Debug\net6.0\FuncLamda.exe
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\bin\Debug\net6.0\FuncLamda.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\bin\Debug\net6.0\FuncLamda.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\bin\Debug\net6.0\FuncLamda.dll
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\bin\Debug\net6.0\FuncLamda.pdb
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\FuncLamda.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\FuncLamda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\FuncLamda.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\FuncLamda.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\FuncLamda.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\FuncLamda.dll
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\refint\FuncLamda.dll
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\FuncLamda.pdb
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\FuncLamda.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\FuncLamda\obj\Debug\net6.0\ref\FuncLamda.dll
