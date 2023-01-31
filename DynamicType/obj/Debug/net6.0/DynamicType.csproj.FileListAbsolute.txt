@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\bin\Debug\net6.0\DynamicType.exe
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\bin\Debug\net6.0\DynamicType.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\bin\Debug\net6.0\DynamicType.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\bin\Debug\net6.0\DynamicType.dll
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\bin\Debug\net6.0\DynamicType.pdb
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\DynamicType.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\DynamicType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\DynamicType.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\DynamicType.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\DynamicType.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\DynamicType.dll
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\refint\DynamicType.dll
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\DynamicType.pdb
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\DynamicType.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\DynamicType\obj\Debug\net6.0\ref\DynamicType.dll
