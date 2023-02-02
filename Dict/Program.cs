@@ -34,7 +34,7 @@ namespace Hello{
 
             string? charac = Console.ReadLine();
 
-            if(newMember == null || charac == null)
+            if(newMember is null || charac is null)
             {
                 throw new Exception("You Entered Null Value!");
             }

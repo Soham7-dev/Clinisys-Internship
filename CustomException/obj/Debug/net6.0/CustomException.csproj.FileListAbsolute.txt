@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\bin\Debug\net6.0\CustomException.exe
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\bin\Debug\net6.0\CustomException.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\bin\Debug\net6.0\CustomException.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\bin\Debug\net6.0\CustomException.dll
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\bin\Debug\net6.0\CustomException.pdb
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\CustomException.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\CustomException.dll
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\refint\CustomException.dll
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\CustomException.pdb
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\CustomException.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\CustomException\obj\Debug\net6.0\ref\CustomException.dll
