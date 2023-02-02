@@ -1,0 +1,15 @@
+C:\Users\dass\Desktop\CSharpPrograms\Dict\bin\Debug\net6.0\Dict.exe
+C:\Users\dass\Desktop\CSharpPrograms\Dict\bin\Debug\net6.0\Dict.deps.json
+C:\Users\dass\Desktop\CSharpPrograms\Dict\bin\Debug\net6.0\Dict.runtimeconfig.json
+C:\Users\dass\Desktop\CSharpPrograms\Dict\bin\Debug\net6.0\Dict.dll
+C:\Users\dass\Desktop\CSharpPrograms\Dict\bin\Debug\net6.0\Dict.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\Dict.csproj.AssemblyReference.cache
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\Dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\Dict.AssemblyInfoInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\Dict.AssemblyInfo.cs
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\Dict.csproj.CoreCompileInputs.cache
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\Dict.dll
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\refint\Dict.dll
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\Dict.pdb
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\Dict.genruntimeconfig.cache
+C:\Users\dass\Desktop\CSharpPrograms\Dict\obj\Debug\net6.0\ref\Dict.dll
