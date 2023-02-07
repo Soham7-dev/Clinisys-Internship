@@ -7,6 +7,7 @@ namespace Hello{
         static void Main(string[] args)
         {
             var anonymous = new { Name = "Flash", TopSpeed = "299,792,458 m/s"};
+            
             var newAnonymous = anonymous with { TopSpeed = "Greater than Speed of Light"};
 
             Console.WriteLine("Name: " + anonymous.Name + ", " + "TopSpeed: " + anonymous.TopSpeed);
@@ -16,6 +17,13 @@ namespace Hello{
             Console.WriteLine("Actual Top Speed: " +  newAnonymous.TopSpeed);
 
             Console.ResetColor();
+
+            var anonymousArray = new[] {"Flash", "Reverse Flash", "Captain Cold"};
+
+            foreach(string item in anonymousArray)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
