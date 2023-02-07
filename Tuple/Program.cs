@@ -12,7 +12,11 @@ namespace Hello{
 
             Tuple<int, int, int> ans = sq.Invoke((3,4,5));
 
-            Console.WriteLine(ans);
+            Func<(int, int, int), (int, int, int)> cube = (a) => (a.Item1*a.Item1*a.Item1, a.Item2*a.Item2*a.Item2, a.Item3*a.Item3*a.Item3);
+
+            Console.WriteLine("Square of Tuple : " + ans);
+
+            Console.WriteLine("Cube of Tuple : " + cube((3,4,5)));
         }
 
         public static Tuple<int, int, int> square((int a, int b, int c) t)
