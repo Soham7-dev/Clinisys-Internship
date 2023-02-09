@@ -5,7 +5,7 @@ namespace Hello{
 
     class Tuple
     {
-        public delegate ValueTuple<int, int, int> Square((int a, int b, int c) t);
+        public delegate (int first, int second, int third) Square((int a, int b, int c) t);
         static void Main(string[] args)
         {
             Square sq = new Square(square);
@@ -19,11 +19,11 @@ namespace Hello{
             Console.WriteLine("Cube of Tuple : " + cube((3,4,5)));
         }
 
-        public static ValueTuple<int, int, int> square((int a, int b, int c) t)
+        public static (int first, int second, int third) square((int a, int b, int c) t)
         {
             int x = t.a, y = t.b, z = t.c;
 
-            return new ValueTuple<int, int, int>(x*x, y*y, z*z);
+            return (x*x, y*y, z*z);
         }
     }
 }
